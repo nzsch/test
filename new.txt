@@ -1,0 +1,6 @@
+this is a new text file:
+stars
+planets
+galaxies
+universe
+				   
