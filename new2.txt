@@ -1,2 +1,5 @@
 here is another text
 created on mac
+
+some changes made locally on mac
+changes made 3/1/2017 on mac
